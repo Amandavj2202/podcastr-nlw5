@@ -1,3 +1,10 @@
+Podcastr - Projeto desenvolvido na Next Level Week #5 entre 19 a 25 de Abril de 2021.
+
+React
+Next.js
+TypeScript
+SASS
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
